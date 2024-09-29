@@ -1,0 +1,7 @@
+C:\Users\Karabulut\source\repos\değişkenler\fordöngüsü\bin\Debug\fordöngüsü.exe.config
+C:\Users\Karabulut\source\repos\değişkenler\fordöngüsü\bin\Debug\fordöngüsü.exe
+C:\Users\Karabulut\source\repos\değişkenler\fordöngüsü\bin\Debug\fordöngüsü.pdb
+C:\Users\Karabulut\source\repos\değişkenler\fordöngüsü\obj\Debug\fordöngüsü.csproj.AssemblyReference.cache
+C:\Users\Karabulut\source\repos\değişkenler\fordöngüsü\obj\Debug\fordöngüsü.csproj.CoreCompileInputs.cache
+C:\Users\Karabulut\source\repos\değişkenler\fordöngüsü\obj\Debug\fordöngüsü.exe
+C:\Users\Karabulut\source\repos\değişkenler\fordöngüsü\obj\Debug\fordöngüsü.pdb

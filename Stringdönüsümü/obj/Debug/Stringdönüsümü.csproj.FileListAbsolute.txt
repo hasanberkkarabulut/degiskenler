@@ -1,0 +1,7 @@
+C:\Users\Karabulut\source\repos\değişkenler\Stringdönüsümü\bin\Debug\Stringdönüsümü.exe.config
+C:\Users\Karabulut\source\repos\değişkenler\Stringdönüsümü\bin\Debug\Stringdönüsümü.exe
+C:\Users\Karabulut\source\repos\değişkenler\Stringdönüsümü\bin\Debug\Stringdönüsümü.pdb
+C:\Users\Karabulut\source\repos\değişkenler\Stringdönüsümü\obj\Debug\Stringdönüsümü.csproj.AssemblyReference.cache
+C:\Users\Karabulut\source\repos\değişkenler\Stringdönüsümü\obj\Debug\Stringdönüsümü.csproj.CoreCompileInputs.cache
+C:\Users\Karabulut\source\repos\değişkenler\Stringdönüsümü\obj\Debug\Stringdönüsümü.exe
+C:\Users\Karabulut\source\repos\değişkenler\Stringdönüsümü\obj\Debug\Stringdönüsümü.pdb

@@ -1,0 +1,7 @@
+C:\Users\Karabulut\source\repos\değişkenler\ifelse\bin\Debug\ifelse.exe.config
+C:\Users\Karabulut\source\repos\değişkenler\ifelse\bin\Debug\ifelse.exe
+C:\Users\Karabulut\source\repos\değişkenler\ifelse\bin\Debug\ifelse.pdb
+C:\Users\Karabulut\source\repos\değişkenler\ifelse\obj\Debug\ifelse.csproj.AssemblyReference.cache
+C:\Users\Karabulut\source\repos\değişkenler\ifelse\obj\Debug\ifelse.csproj.CoreCompileInputs.cache
+C:\Users\Karabulut\source\repos\değişkenler\ifelse\obj\Debug\ifelse.exe
+C:\Users\Karabulut\source\repos\değişkenler\ifelse\obj\Debug\ifelse.pdb

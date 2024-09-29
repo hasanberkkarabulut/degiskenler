@@ -1,0 +1,7 @@
+C:\Users\Karabulut\source\repos\değişkenler\AritmatikOperatorler\obj\Debug\AritmatikOperatorler.csproj.AssemblyReference.cache
+C:\Users\Karabulut\source\repos\değişkenler\AritmatikOperatorler\obj\Debug\AritmatikOperatorler.csproj.CoreCompileInputs.cache
+C:\Users\Karabulut\source\repos\değişkenler\AritmatikOperatorler\bin\Debug\AritmatikOperatorler.exe.config
+C:\Users\Karabulut\source\repos\değişkenler\AritmatikOperatorler\bin\Debug\AritmatikOperatorler.exe
+C:\Users\Karabulut\source\repos\değişkenler\AritmatikOperatorler\bin\Debug\AritmatikOperatorler.pdb
+C:\Users\Karabulut\source\repos\değişkenler\AritmatikOperatorler\obj\Debug\AritmatikOperatorler.exe
+C:\Users\Karabulut\source\repos\değişkenler\AritmatikOperatorler\obj\Debug\AritmatikOperatorler.pdb

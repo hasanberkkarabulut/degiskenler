@@ -1,0 +1,10 @@
+C:\Users\Karabulut\source\repos\değişkenler\ComboBoxİneleme\bin\Debug\ComboBoxİneleme.exe.config
+C:\Users\Karabulut\source\repos\değişkenler\ComboBoxİneleme\bin\Debug\ComboBoxİneleme.exe
+C:\Users\Karabulut\source\repos\değişkenler\ComboBoxİneleme\bin\Debug\ComboBoxİneleme.pdb
+C:\Users\Karabulut\source\repos\değişkenler\ComboBoxİneleme\obj\Debug\ComboBoxİneleme.csproj.AssemblyReference.cache
+C:\Users\Karabulut\source\repos\değişkenler\ComboBoxİneleme\obj\Debug\ComboBoxİneleme.Form1.resources
+C:\Users\Karabulut\source\repos\değişkenler\ComboBoxİneleme\obj\Debug\ComboBoxİneleme.Properties.Resources.resources
+C:\Users\Karabulut\source\repos\değişkenler\ComboBoxİneleme\obj\Debug\ComboBoxİneleme.csproj.GenerateResource.cache
+C:\Users\Karabulut\source\repos\değişkenler\ComboBoxİneleme\obj\Debug\ComboBoxİneleme.csproj.CoreCompileInputs.cache
+C:\Users\Karabulut\source\repos\değişkenler\ComboBoxİneleme\obj\Debug\ComboBoxİneleme.exe
+C:\Users\Karabulut\source\repos\değişkenler\ComboBoxİneleme\obj\Debug\ComboBoxİneleme.pdb

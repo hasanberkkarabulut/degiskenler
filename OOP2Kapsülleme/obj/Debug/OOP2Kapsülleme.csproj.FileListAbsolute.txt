@@ -1,0 +1,7 @@
+C:\Users\Karabulut\source\repos\değişkenler\OOP2Kapsülleme\bin\Debug\OOP2Kapsülleme.exe.config
+C:\Users\Karabulut\source\repos\değişkenler\OOP2Kapsülleme\bin\Debug\OOP2Kapsülleme.exe
+C:\Users\Karabulut\source\repos\değişkenler\OOP2Kapsülleme\bin\Debug\OOP2Kapsülleme.pdb
+C:\Users\Karabulut\source\repos\değişkenler\OOP2Kapsülleme\obj\Debug\OOP2Kapsülleme.csproj.AssemblyReference.cache
+C:\Users\Karabulut\source\repos\değişkenler\OOP2Kapsülleme\obj\Debug\OOP2Kapsülleme.csproj.CoreCompileInputs.cache
+C:\Users\Karabulut\source\repos\değişkenler\OOP2Kapsülleme\obj\Debug\OOP2Kapsülleme.exe
+C:\Users\Karabulut\source\repos\değişkenler\OOP2Kapsülleme\obj\Debug\OOP2Kapsülleme.pdb

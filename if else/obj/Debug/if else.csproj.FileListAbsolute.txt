@@ -1,0 +1,7 @@
+C:\Users\Karabulut\source\repos\değişkenler\if else\bin\Debug\if else.exe.config
+C:\Users\Karabulut\source\repos\değişkenler\if else\bin\Debug\if else.exe
+C:\Users\Karabulut\source\repos\değişkenler\if else\bin\Debug\if else.pdb
+C:\Users\Karabulut\source\repos\değişkenler\if else\obj\Debug\if else.csproj.AssemblyReference.cache
+C:\Users\Karabulut\source\repos\değişkenler\if else\obj\Debug\if else.csproj.CoreCompileInputs.cache
+C:\Users\Karabulut\source\repos\değişkenler\if else\obj\Debug\if else.exe
+C:\Users\Karabulut\source\repos\değişkenler\if else\obj\Debug\if else.pdb

@@ -1,0 +1,7 @@
+C:\Users\Karabulut\source\repos\değişkenler\türdönüs\bin\Debug\türdönüs.exe.config
+C:\Users\Karabulut\source\repos\değişkenler\türdönüs\bin\Debug\türdönüs.exe
+C:\Users\Karabulut\source\repos\değişkenler\türdönüs\bin\Debug\türdönüs.pdb
+C:\Users\Karabulut\source\repos\değişkenler\türdönüs\obj\Debug\türdönüs.csproj.AssemblyReference.cache
+C:\Users\Karabulut\source\repos\değişkenler\türdönüs\obj\Debug\türdönüs.csproj.CoreCompileInputs.cache
+C:\Users\Karabulut\source\repos\değişkenler\türdönüs\obj\Debug\türdönüs.exe
+C:\Users\Karabulut\source\repos\değişkenler\türdönüs\obj\Debug\türdönüs.pdb

@@ -1,0 +1,10 @@
+C:\Users\Karabulut\source\repos\değişkenler\MesageBoxUygulama\obj\Debug\MesageBoxUygulama.csproj.AssemblyReference.cache
+C:\Users\Karabulut\source\repos\değişkenler\MesageBoxUygulama\obj\Debug\MesageBoxUygulama.Form1.resources
+C:\Users\Karabulut\source\repos\değişkenler\MesageBoxUygulama\obj\Debug\MesageBoxUygulama.Properties.Resources.resources
+C:\Users\Karabulut\source\repos\değişkenler\MesageBoxUygulama\obj\Debug\MesageBoxUygulama.csproj.GenerateResource.cache
+C:\Users\Karabulut\source\repos\değişkenler\MesageBoxUygulama\obj\Debug\MesageBoxUygulama.csproj.CoreCompileInputs.cache
+C:\Users\Karabulut\source\repos\değişkenler\MesageBoxUygulama\bin\Debug\MesageBoxUygulama.exe.config
+C:\Users\Karabulut\source\repos\değişkenler\MesageBoxUygulama\bin\Debug\MesageBoxUygulama.exe
+C:\Users\Karabulut\source\repos\değişkenler\MesageBoxUygulama\bin\Debug\MesageBoxUygulama.pdb
+C:\Users\Karabulut\source\repos\değişkenler\MesageBoxUygulama\obj\Debug\MesageBoxUygulama.exe
+C:\Users\Karabulut\source\repos\değişkenler\MesageBoxUygulama\obj\Debug\MesageBoxUygulama.pdb

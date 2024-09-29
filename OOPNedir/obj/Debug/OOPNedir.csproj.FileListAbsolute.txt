@@ -1,0 +1,7 @@
+C:\Users\Karabulut\source\repos\değişkenler\OOPNedir\bin\Debug\OOPNedir.exe.config
+C:\Users\Karabulut\source\repos\değişkenler\OOPNedir\bin\Debug\OOPNedir.exe
+C:\Users\Karabulut\source\repos\değişkenler\OOPNedir\bin\Debug\OOPNedir.pdb
+C:\Users\Karabulut\source\repos\değişkenler\OOPNedir\obj\Debug\OOPNedir.csproj.AssemblyReference.cache
+C:\Users\Karabulut\source\repos\değişkenler\OOPNedir\obj\Debug\OOPNedir.csproj.CoreCompileInputs.cache
+C:\Users\Karabulut\source\repos\değişkenler\OOPNedir\obj\Debug\OOPNedir.exe
+C:\Users\Karabulut\source\repos\değişkenler\OOPNedir\obj\Debug\OOPNedir.pdb

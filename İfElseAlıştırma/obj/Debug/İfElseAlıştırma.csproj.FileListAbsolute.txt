@@ -1,0 +1,7 @@
+C:\Users\Karabulut\source\repos\değişkenler\İfElseAlıştırma\bin\Debug\İfElseAlıştırma.exe.config
+C:\Users\Karabulut\source\repos\değişkenler\İfElseAlıştırma\bin\Debug\İfElseAlıştırma.exe
+C:\Users\Karabulut\source\repos\değişkenler\İfElseAlıştırma\bin\Debug\İfElseAlıştırma.pdb
+C:\Users\Karabulut\source\repos\değişkenler\İfElseAlıştırma\obj\Debug\İfElseAlıştırma.csproj.AssemblyReference.cache
+C:\Users\Karabulut\source\repos\değişkenler\İfElseAlıştırma\obj\Debug\İfElseAlıştırma.csproj.CoreCompileInputs.cache
+C:\Users\Karabulut\source\repos\değişkenler\İfElseAlıştırma\obj\Debug\İfElseAlıştırma.exe
+C:\Users\Karabulut\source\repos\değişkenler\İfElseAlıştırma\obj\Debug\İfElseAlıştırma.pdb

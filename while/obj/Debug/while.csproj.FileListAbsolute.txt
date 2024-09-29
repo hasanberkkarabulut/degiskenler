@@ -1,0 +1,7 @@
+C:\Users\Karabulut\source\repos\değişkenler\while\bin\Debug\@while.exe.config
+C:\Users\Karabulut\source\repos\değişkenler\while\bin\Debug\@while.exe
+C:\Users\Karabulut\source\repos\değişkenler\while\bin\Debug\@while.pdb
+C:\Users\Karabulut\source\repos\değişkenler\while\obj\Debug\while.csproj.AssemblyReference.cache
+C:\Users\Karabulut\source\repos\değişkenler\while\obj\Debug\while.csproj.CoreCompileInputs.cache
+C:\Users\Karabulut\source\repos\değişkenler\while\obj\Debug\@while.exe
+C:\Users\Karabulut\source\repos\değişkenler\while\obj\Debug\@while.pdb

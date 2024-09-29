@@ -1,0 +1,10 @@
+C:\Users\Karabulut\source\repos\değişkenler\DinamikForm\bin\Debug\DinamikForm.exe.config
+C:\Users\Karabulut\source\repos\değişkenler\DinamikForm\bin\Debug\DinamikForm.exe
+C:\Users\Karabulut\source\repos\değişkenler\DinamikForm\bin\Debug\DinamikForm.pdb
+C:\Users\Karabulut\source\repos\değişkenler\DinamikForm\obj\Debug\DinamikForm.csproj.AssemblyReference.cache
+C:\Users\Karabulut\source\repos\değişkenler\DinamikForm\obj\Debug\DinamikForm.Properties.Resources.resources
+C:\Users\Karabulut\source\repos\değişkenler\DinamikForm\obj\Debug\DinamikForm.csproj.GenerateResource.cache
+C:\Users\Karabulut\source\repos\değişkenler\DinamikForm\obj\Debug\DinamikForm.csproj.CoreCompileInputs.cache
+C:\Users\Karabulut\source\repos\değişkenler\DinamikForm\obj\Debug\DinamikForm.exe
+C:\Users\Karabulut\source\repos\değişkenler\DinamikForm\obj\Debug\DinamikForm.pdb
+C:\Users\Karabulut\source\repos\değişkenler\DinamikForm\obj\Debug\DinamikForm.Form1.resources

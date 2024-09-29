@@ -1,0 +1,7 @@
+C:\Users\Karabulut\source\repos\değişkenler\SortedListÖdev\bin\Debug\SortedListÖdev.exe.config
+C:\Users\Karabulut\source\repos\değişkenler\SortedListÖdev\bin\Debug\SortedListÖdev.exe
+C:\Users\Karabulut\source\repos\değişkenler\SortedListÖdev\bin\Debug\SortedListÖdev.pdb
+C:\Users\Karabulut\source\repos\değişkenler\SortedListÖdev\obj\Debug\SortedListÖdev.csproj.AssemblyReference.cache
+C:\Users\Karabulut\source\repos\değişkenler\SortedListÖdev\obj\Debug\SortedListÖdev.csproj.CoreCompileInputs.cache
+C:\Users\Karabulut\source\repos\değişkenler\SortedListÖdev\obj\Debug\SortedListÖdev.exe
+C:\Users\Karabulut\source\repos\değişkenler\SortedListÖdev\obj\Debug\SortedListÖdev.pdb

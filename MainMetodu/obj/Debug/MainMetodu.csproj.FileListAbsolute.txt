@@ -1,0 +1,7 @@
+C:\Users\Karabulut\source\repos\değişkenler\MainMetodu\bin\Debug\MainMetodu.exe.config
+C:\Users\Karabulut\source\repos\değişkenler\MainMetodu\bin\Debug\MainMetodu.exe
+C:\Users\Karabulut\source\repos\değişkenler\MainMetodu\bin\Debug\MainMetodu.pdb
+C:\Users\Karabulut\source\repos\değişkenler\MainMetodu\obj\Debug\MainMetodu.csproj.AssemblyReference.cache
+C:\Users\Karabulut\source\repos\değişkenler\MainMetodu\obj\Debug\MainMetodu.csproj.CoreCompileInputs.cache
+C:\Users\Karabulut\source\repos\değişkenler\MainMetodu\obj\Debug\MainMetodu.exe
+C:\Users\Karabulut\source\repos\değişkenler\MainMetodu\obj\Debug\MainMetodu.pdb

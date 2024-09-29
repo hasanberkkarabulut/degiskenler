@@ -1,0 +1,11 @@
+C:\Users\Karabulut\source\repos\değişkenler\KullaniciGirişUygulama\bin\Debug\KullaniciGirişUygulama.exe.config
+C:\Users\Karabulut\source\repos\değişkenler\KullaniciGirişUygulama\bin\Debug\KullaniciGirişUygulama.exe
+C:\Users\Karabulut\source\repos\değişkenler\KullaniciGirişUygulama\bin\Debug\KullaniciGirişUygulama.pdb
+C:\Users\Karabulut\source\repos\değişkenler\KullaniciGirişUygulama\obj\Debug\KullaniciGirişUygulama.csproj.AssemblyReference.cache
+C:\Users\Karabulut\source\repos\değişkenler\KullaniciGirişUygulama\obj\Debug\KullaniciGirişUygulama.Form1.resources
+C:\Users\Karabulut\source\repos\değişkenler\KullaniciGirişUygulama\obj\Debug\KullaniciGirişUygulama.Properties.Resources.resources
+C:\Users\Karabulut\source\repos\değişkenler\KullaniciGirişUygulama\obj\Debug\KullaniciGirişUygulama.csproj.GenerateResource.cache
+C:\Users\Karabulut\source\repos\değişkenler\KullaniciGirişUygulama\obj\Debug\KullaniciGirişUygulama.csproj.CoreCompileInputs.cache
+C:\Users\Karabulut\source\repos\değişkenler\KullaniciGirişUygulama\obj\Debug\KullaniciGirişUygulama.exe
+C:\Users\Karabulut\source\repos\değişkenler\KullaniciGirişUygulama\obj\Debug\KullaniciGirişUygulama.pdb
+C:\Users\Karabulut\source\repos\değişkenler\KullaniciGirişUygulama\obj\Debug\KullaniciGirişUygulama.anaform.resources

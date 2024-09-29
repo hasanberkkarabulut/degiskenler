@@ -1,0 +1,7 @@
+C:\Users\Karabulut\source\repos\değişkenler\karşılaştırmaoperatörleri\bin\Debug\karşılaştırmaoperatörleri.exe.config
+C:\Users\Karabulut\source\repos\değişkenler\karşılaştırmaoperatörleri\bin\Debug\karşılaştırmaoperatörleri.exe
+C:\Users\Karabulut\source\repos\değişkenler\karşılaştırmaoperatörleri\bin\Debug\karşılaştırmaoperatörleri.pdb
+C:\Users\Karabulut\source\repos\değişkenler\karşılaştırmaoperatörleri\obj\Debug\karşılaştırmaoperatörleri.csproj.AssemblyReference.cache
+C:\Users\Karabulut\source\repos\değişkenler\karşılaştırmaoperatörleri\obj\Debug\karşılaştırmaoperatörleri.csproj.CoreCompileInputs.cache
+C:\Users\Karabulut\source\repos\değişkenler\karşılaştırmaoperatörleri\obj\Debug\karşılaştırmaoperatörleri.exe
+C:\Users\Karabulut\source\repos\değişkenler\karşılaştırmaoperatörleri\obj\Debug\karşılaştırmaoperatörleri.pdb

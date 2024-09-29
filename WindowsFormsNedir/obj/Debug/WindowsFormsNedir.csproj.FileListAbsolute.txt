@@ -1,0 +1,11 @@
+C:\Users\Karabulut\source\repos\değişkenler\WindowsFormsNedir\bin\Debug\WindowsFormsNedir.exe.config
+C:\Users\Karabulut\source\repos\değişkenler\WindowsFormsNedir\bin\Debug\WindowsFormsNedir.exe
+C:\Users\Karabulut\source\repos\değişkenler\WindowsFormsNedir\bin\Debug\WindowsFormsNedir.pdb
+C:\Users\Karabulut\source\repos\değişkenler\WindowsFormsNedir\obj\Debug\WindowsFormsNedir.csproj.AssemblyReference.cache
+C:\Users\Karabulut\source\repos\değişkenler\WindowsFormsNedir\obj\Debug\WindowsFormsNedir.Properties.Resources.resources
+C:\Users\Karabulut\source\repos\değişkenler\WindowsFormsNedir\obj\Debug\WindowsFormsNedir.csproj.GenerateResource.cache
+C:\Users\Karabulut\source\repos\değişkenler\WindowsFormsNedir\obj\Debug\WindowsFormsNedir.csproj.CoreCompileInputs.cache
+C:\Users\Karabulut\source\repos\değişkenler\WindowsFormsNedir\obj\Debug\WindowsFormsNedir.exe
+C:\Users\Karabulut\source\repos\değişkenler\WindowsFormsNedir\obj\Debug\WindowsFormsNedir.pdb
+C:\Users\Karabulut\source\repos\değişkenler\WindowsFormsNedir\obj\Debug\WindowsFormsNedir.Form1.resources
+C:\Users\Karabulut\source\repos\değişkenler\WindowsFormsNedir\obj\Debug\WindowsFormsNedir.Merhaba_FORM.resources

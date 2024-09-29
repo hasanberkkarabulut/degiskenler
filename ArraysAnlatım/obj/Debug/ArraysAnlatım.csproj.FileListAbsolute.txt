@@ -1,0 +1,7 @@
+C:\Users\Karabulut\source\repos\değişkenler\ArraysAnlatım\bin\Debug\ArraysAnlatım.exe.config
+C:\Users\Karabulut\source\repos\değişkenler\ArraysAnlatım\bin\Debug\ArraysAnlatım.exe
+C:\Users\Karabulut\source\repos\değişkenler\ArraysAnlatım\bin\Debug\ArraysAnlatım.pdb
+C:\Users\Karabulut\source\repos\değişkenler\ArraysAnlatım\obj\Debug\ArraysAnlatım.csproj.AssemblyReference.cache
+C:\Users\Karabulut\source\repos\değişkenler\ArraysAnlatım\obj\Debug\ArraysAnlatım.csproj.CoreCompileInputs.cache
+C:\Users\Karabulut\source\repos\değişkenler\ArraysAnlatım\obj\Debug\ArraysAnlatım.exe
+C:\Users\Karabulut\source\repos\değişkenler\ArraysAnlatım\obj\Debug\ArraysAnlatım.pdb

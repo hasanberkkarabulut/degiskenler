@@ -1,0 +1,7 @@
+C:\Users\Karabulut\source\repos\değişkenler\Consele\bin\Debug\Consele.exe.config
+C:\Users\Karabulut\source\repos\değişkenler\Consele\bin\Debug\Consele.exe
+C:\Users\Karabulut\source\repos\değişkenler\Consele\bin\Debug\Consele.pdb
+C:\Users\Karabulut\source\repos\değişkenler\Consele\obj\Debug\Consele.csproj.AssemblyReference.cache
+C:\Users\Karabulut\source\repos\değişkenler\Consele\obj\Debug\Consele.csproj.CoreCompileInputs.cache
+C:\Users\Karabulut\source\repos\değişkenler\Consele\obj\Debug\Consele.exe
+C:\Users\Karabulut\source\repos\değişkenler\Consele\obj\Debug\Consele.pdb

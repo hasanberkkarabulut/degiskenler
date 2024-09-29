@@ -1,0 +1,7 @@
+C:\Users\Karabulut\source\repos\değişkenler\oreach\bin\Debug\oreach.exe.config
+C:\Users\Karabulut\source\repos\değişkenler\oreach\bin\Debug\oreach.exe
+C:\Users\Karabulut\source\repos\değişkenler\oreach\bin\Debug\oreach.pdb
+C:\Users\Karabulut\source\repos\değişkenler\oreach\obj\Debug\oreach.csproj.AssemblyReference.cache
+C:\Users\Karabulut\source\repos\değişkenler\oreach\obj\Debug\oreach.csproj.CoreCompileInputs.cache
+C:\Users\Karabulut\source\repos\değişkenler\oreach\obj\Debug\oreach.exe
+C:\Users\Karabulut\source\repos\değişkenler\oreach\obj\Debug\oreach.pdb

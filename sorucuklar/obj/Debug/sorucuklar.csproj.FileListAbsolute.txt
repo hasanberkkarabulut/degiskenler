@@ -1,0 +1,7 @@
+C:\Users\Karabulut\source\repos\değişkenler\sorucuklar\bin\Debug\sorucuklar.exe.config
+C:\Users\Karabulut\source\repos\değişkenler\sorucuklar\bin\Debug\sorucuklar.exe
+C:\Users\Karabulut\source\repos\değişkenler\sorucuklar\bin\Debug\sorucuklar.pdb
+C:\Users\Karabulut\source\repos\değişkenler\sorucuklar\obj\Debug\sorucuklar.csproj.AssemblyReference.cache
+C:\Users\Karabulut\source\repos\değişkenler\sorucuklar\obj\Debug\sorucuklar.csproj.CoreCompileInputs.cache
+C:\Users\Karabulut\source\repos\değişkenler\sorucuklar\obj\Debug\sorucuklar.exe
+C:\Users\Karabulut\source\repos\değişkenler\sorucuklar\obj\Debug\sorucuklar.pdb

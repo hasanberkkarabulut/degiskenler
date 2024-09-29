@@ -1,0 +1,7 @@
+C:\Users\Karabulut\source\repos\değişkenler\OOPKalıtım\bin\Debug\OOPKalıtım.exe.config
+C:\Users\Karabulut\source\repos\değişkenler\OOPKalıtım\bin\Debug\OOPKalıtım.exe
+C:\Users\Karabulut\source\repos\değişkenler\OOPKalıtım\bin\Debug\OOPKalıtım.pdb
+C:\Users\Karabulut\source\repos\değişkenler\OOPKalıtım\obj\Debug\OOPKalıtım.csproj.AssemblyReference.cache
+C:\Users\Karabulut\source\repos\değişkenler\OOPKalıtım\obj\Debug\OOPKalıtım.csproj.CoreCompileInputs.cache
+C:\Users\Karabulut\source\repos\değişkenler\OOPKalıtım\obj\Debug\OOPKalıtım.exe
+C:\Users\Karabulut\source\repos\değişkenler\OOPKalıtım\obj\Debug\OOPKalıtım.pdb

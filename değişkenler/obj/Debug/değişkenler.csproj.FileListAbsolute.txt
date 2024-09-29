@@ -1,0 +1,7 @@
+C:\Users\Karabulut\source\repos\değişkenler\değişkenler\bin\Debug\değişkenler.exe.config
+C:\Users\Karabulut\source\repos\değişkenler\değişkenler\bin\Debug\değişkenler.exe
+C:\Users\Karabulut\source\repos\değişkenler\değişkenler\bin\Debug\değişkenler.pdb
+C:\Users\Karabulut\source\repos\değişkenler\değişkenler\obj\Debug\değişkenler.csproj.AssemblyReference.cache
+C:\Users\Karabulut\source\repos\değişkenler\değişkenler\obj\Debug\değişkenler.csproj.CoreCompileInputs.cache
+C:\Users\Karabulut\source\repos\değişkenler\değişkenler\obj\Debug\değişkenler.exe
+C:\Users\Karabulut\source\repos\değişkenler\değişkenler\obj\Debug\değişkenler.pdb

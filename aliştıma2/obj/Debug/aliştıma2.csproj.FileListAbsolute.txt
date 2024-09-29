@@ -1,0 +1,7 @@
+C:\Users\Karabulut\source\repos\değişkenler\aliştıma2\bin\Debug\aliştıma2.exe.config
+C:\Users\Karabulut\source\repos\değişkenler\aliştıma2\bin\Debug\aliştıma2.exe
+C:\Users\Karabulut\source\repos\değişkenler\aliştıma2\bin\Debug\aliştıma2.pdb
+C:\Users\Karabulut\source\repos\değişkenler\aliştıma2\obj\Debug\aliştıma2.csproj.AssemblyReference.cache
+C:\Users\Karabulut\source\repos\değişkenler\aliştıma2\obj\Debug\aliştıma2.csproj.CoreCompileInputs.cache
+C:\Users\Karabulut\source\repos\değişkenler\aliştıma2\obj\Debug\aliştıma2.exe
+C:\Users\Karabulut\source\repos\değişkenler\aliştıma2\obj\Debug\aliştıma2.pdb

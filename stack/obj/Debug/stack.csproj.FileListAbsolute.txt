@@ -1,0 +1,7 @@
+C:\Users\Karabulut\source\repos\değişkenler\stack\bin\Debug\stack.exe.config
+C:\Users\Karabulut\source\repos\değişkenler\stack\bin\Debug\stack.exe
+C:\Users\Karabulut\source\repos\değişkenler\stack\bin\Debug\stack.pdb
+C:\Users\Karabulut\source\repos\değişkenler\stack\obj\Debug\stack.csproj.AssemblyReference.cache
+C:\Users\Karabulut\source\repos\değişkenler\stack\obj\Debug\stack.csproj.CoreCompileInputs.cache
+C:\Users\Karabulut\source\repos\değişkenler\stack\obj\Debug\stack.exe
+C:\Users\Karabulut\source\repos\değişkenler\stack\obj\Debug\stack.pdb

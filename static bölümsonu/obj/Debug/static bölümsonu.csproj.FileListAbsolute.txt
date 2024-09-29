@@ -1,0 +1,7 @@
+C:\Users\Karabulut\source\repos\değişkenler\static bölümsonu\bin\Debug\static bölümsonu.exe.config
+C:\Users\Karabulut\source\repos\değişkenler\static bölümsonu\bin\Debug\static bölümsonu.exe
+C:\Users\Karabulut\source\repos\değişkenler\static bölümsonu\bin\Debug\static bölümsonu.pdb
+C:\Users\Karabulut\source\repos\değişkenler\static bölümsonu\obj\Debug\static bölümsonu.csproj.AssemblyReference.cache
+C:\Users\Karabulut\source\repos\değişkenler\static bölümsonu\obj\Debug\static bölümsonu.csproj.CoreCompileInputs.cache
+C:\Users\Karabulut\source\repos\değişkenler\static bölümsonu\obj\Debug\static bölümsonu.exe
+C:\Users\Karabulut\source\repos\değişkenler\static bölümsonu\obj\Debug\static bölümsonu.pdb

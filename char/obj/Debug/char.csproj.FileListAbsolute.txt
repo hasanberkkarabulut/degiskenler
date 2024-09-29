@@ -1,0 +1,7 @@
+C:\Users\Karabulut\source\repos\değişkenler\char\bin\Debug\@char.exe.config
+C:\Users\Karabulut\source\repos\değişkenler\char\bin\Debug\@char.exe
+C:\Users\Karabulut\source\repos\değişkenler\char\bin\Debug\@char.pdb
+C:\Users\Karabulut\source\repos\değişkenler\char\obj\Debug\char.csproj.AssemblyReference.cache
+C:\Users\Karabulut\source\repos\değişkenler\char\obj\Debug\char.csproj.CoreCompileInputs.cache
+C:\Users\Karabulut\source\repos\değişkenler\char\obj\Debug\@char.exe
+C:\Users\Karabulut\source\repos\değişkenler\char\obj\Debug\@char.pdb

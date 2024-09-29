@@ -1,0 +1,7 @@
+C:\Users\Karabulut\source\repos\değişkenler\alistirma\bin\Debug\alistirma.exe.config
+C:\Users\Karabulut\source\repos\değişkenler\alistirma\bin\Debug\alistirma.exe
+C:\Users\Karabulut\source\repos\değişkenler\alistirma\bin\Debug\alistirma.pdb
+C:\Users\Karabulut\source\repos\değişkenler\alistirma\obj\Debug\alistirma.csproj.AssemblyReference.cache
+C:\Users\Karabulut\source\repos\değişkenler\alistirma\obj\Debug\alistirma.csproj.CoreCompileInputs.cache
+C:\Users\Karabulut\source\repos\değişkenler\alistirma\obj\Debug\alistirma.exe
+C:\Users\Karabulut\source\repos\değişkenler\alistirma\obj\Debug\alistirma.pdb

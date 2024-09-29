@@ -1,0 +1,7 @@
+C:\Users\Karabulut\source\repos\değişkenler\StaticNedir\bin\Debug\StaticNedir.exe.config
+C:\Users\Karabulut\source\repos\değişkenler\StaticNedir\bin\Debug\StaticNedir.exe
+C:\Users\Karabulut\source\repos\değişkenler\StaticNedir\bin\Debug\StaticNedir.pdb
+C:\Users\Karabulut\source\repos\değişkenler\StaticNedir\obj\Debug\StaticNedir.csproj.AssemblyReference.cache
+C:\Users\Karabulut\source\repos\değişkenler\StaticNedir\obj\Debug\StaticNedir.csproj.CoreCompileInputs.cache
+C:\Users\Karabulut\source\repos\değişkenler\StaticNedir\obj\Debug\StaticNedir.exe
+C:\Users\Karabulut\source\repos\değişkenler\StaticNedir\obj\Debug\StaticNedir.pdb

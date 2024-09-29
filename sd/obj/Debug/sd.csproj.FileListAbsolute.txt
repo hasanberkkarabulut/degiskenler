@@ -1,0 +1,7 @@
+C:\Users\Karabulut\source\repos\değişkenler\sd\bin\Debug\sd.exe.config
+C:\Users\Karabulut\source\repos\değişkenler\sd\bin\Debug\sd.exe
+C:\Users\Karabulut\source\repos\değişkenler\sd\bin\Debug\sd.pdb
+C:\Users\Karabulut\source\repos\değişkenler\sd\obj\Debug\sd.csproj.AssemblyReference.cache
+C:\Users\Karabulut\source\repos\değişkenler\sd\obj\Debug\sd.csproj.CoreCompileInputs.cache
+C:\Users\Karabulut\source\repos\değişkenler\sd\obj\Debug\sd.exe
+C:\Users\Karabulut\source\repos\değişkenler\sd\obj\Debug\sd.pdb

@@ -1,0 +1,7 @@
+C:\Users\Karabulut\source\repos\değişkenler\Galeri\obj\Debug\Galeri.csproj.AssemblyReference.cache
+C:\Users\Karabulut\source\repos\değişkenler\Galeri\obj\Debug\Galeri.csproj.CoreCompileInputs.cache
+C:\Users\Karabulut\source\repos\değişkenler\Galeri\bin\Debug\Galeri.exe.config
+C:\Users\Karabulut\source\repos\değişkenler\Galeri\bin\Debug\Galeri.exe
+C:\Users\Karabulut\source\repos\değişkenler\Galeri\bin\Debug\Galeri.pdb
+C:\Users\Karabulut\source\repos\değişkenler\Galeri\obj\Debug\Galeri.exe
+C:\Users\Karabulut\source\repos\değişkenler\Galeri\obj\Debug\Galeri.pdb

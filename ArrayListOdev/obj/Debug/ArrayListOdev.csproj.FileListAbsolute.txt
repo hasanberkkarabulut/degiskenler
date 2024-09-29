@@ -1,0 +1,7 @@
+C:\Users\Karabulut\source\repos\değişkenler\ArrayListOdev\bin\Debug\ArrayListOdev.exe.config
+C:\Users\Karabulut\source\repos\değişkenler\ArrayListOdev\bin\Debug\ArrayListOdev.exe
+C:\Users\Karabulut\source\repos\değişkenler\ArrayListOdev\bin\Debug\ArrayListOdev.pdb
+C:\Users\Karabulut\source\repos\değişkenler\ArrayListOdev\obj\Debug\ArrayListOdev.csproj.AssemblyReference.cache
+C:\Users\Karabulut\source\repos\değişkenler\ArrayListOdev\obj\Debug\ArrayListOdev.csproj.CoreCompileInputs.cache
+C:\Users\Karabulut\source\repos\değişkenler\ArrayListOdev\obj\Debug\ArrayListOdev.exe
+C:\Users\Karabulut\source\repos\değişkenler\ArrayListOdev\obj\Debug\ArrayListOdev.pdb

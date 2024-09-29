@@ -1,0 +1,7 @@
+C:\Users\Karabulut\source\repos\değişkenler\Davraniş\bin\Debug\Davraniş.exe.config
+C:\Users\Karabulut\source\repos\değişkenler\Davraniş\bin\Debug\Davraniş.exe
+C:\Users\Karabulut\source\repos\değişkenler\Davraniş\bin\Debug\Davraniş.pdb
+C:\Users\Karabulut\source\repos\değişkenler\Davraniş\obj\Debug\Davraniş.csproj.AssemblyReference.cache
+C:\Users\Karabulut\source\repos\değişkenler\Davraniş\obj\Debug\Davraniş.csproj.CoreCompileInputs.cache
+C:\Users\Karabulut\source\repos\değişkenler\Davraniş\obj\Debug\Davraniş.exe
+C:\Users\Karabulut\source\repos\değişkenler\Davraniş\obj\Debug\Davraniş.pdb

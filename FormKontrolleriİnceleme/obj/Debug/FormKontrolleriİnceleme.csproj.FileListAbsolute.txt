@@ -1,0 +1,11 @@
+C:\Users\Karabulut\source\repos\değişkenler\FormKontrolleriİnceleme\bin\Debug\FormKontrolleriİnceleme.exe.config
+C:\Users\Karabulut\source\repos\değişkenler\FormKontrolleriİnceleme\bin\Debug\FormKontrolleriİnceleme.exe
+C:\Users\Karabulut\source\repos\değişkenler\FormKontrolleriİnceleme\bin\Debug\FormKontrolleriİnceleme.pdb
+C:\Users\Karabulut\source\repos\değişkenler\FormKontrolleriİnceleme\obj\Debug\FormKontrolleriİnceleme.csproj.AssemblyReference.cache
+C:\Users\Karabulut\source\repos\değişkenler\FormKontrolleriİnceleme\obj\Debug\FormKontrolleriİnceleme.Form1.resources
+C:\Users\Karabulut\source\repos\değişkenler\FormKontrolleriİnceleme\obj\Debug\FormKontrolleriİnceleme.formKayıtÖnizleme.resources
+C:\Users\Karabulut\source\repos\değişkenler\FormKontrolleriİnceleme\obj\Debug\FormKontrolleriİnceleme.Properties.Resources.resources
+C:\Users\Karabulut\source\repos\değişkenler\FormKontrolleriİnceleme\obj\Debug\FormKontrolleriİnceleme.csproj.GenerateResource.cache
+C:\Users\Karabulut\source\repos\değişkenler\FormKontrolleriİnceleme\obj\Debug\FormKontrolleriİnceleme.csproj.CoreCompileInputs.cache
+C:\Users\Karabulut\source\repos\değişkenler\FormKontrolleriİnceleme\obj\Debug\FormKontrolleriİnceleme.exe
+C:\Users\Karabulut\source\repos\değişkenler\FormKontrolleriİnceleme\obj\Debug\FormKontrolleriİnceleme.pdb

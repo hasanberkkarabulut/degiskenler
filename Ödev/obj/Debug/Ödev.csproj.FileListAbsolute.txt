@@ -1,0 +1,7 @@
+C:\Users\Karabulut\source\repos\değişkenler\Ödev\bin\Debug\Ödev.exe.config
+C:\Users\Karabulut\source\repos\değişkenler\Ödev\bin\Debug\Ödev.exe
+C:\Users\Karabulut\source\repos\değişkenler\Ödev\bin\Debug\Ödev.pdb
+C:\Users\Karabulut\source\repos\değişkenler\Ödev\obj\Debug\Ödev.csproj.AssemblyReference.cache
+C:\Users\Karabulut\source\repos\değişkenler\Ödev\obj\Debug\Ödev.csproj.CoreCompileInputs.cache
+C:\Users\Karabulut\source\repos\değişkenler\Ödev\obj\Debug\Ödev.exe
+C:\Users\Karabulut\source\repos\değişkenler\Ödev\obj\Debug\Ödev.pdb

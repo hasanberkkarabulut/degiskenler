@@ -1,0 +1,7 @@
+C:\Users\Karabulut\source\repos\değişkenler\Tamsayilar\bin\Debug\Tamsayilar.exe.config
+C:\Users\Karabulut\source\repos\değişkenler\Tamsayilar\bin\Debug\Tamsayilar.exe
+C:\Users\Karabulut\source\repos\değişkenler\Tamsayilar\bin\Debug\Tamsayilar.pdb
+C:\Users\Karabulut\source\repos\değişkenler\Tamsayilar\obj\Debug\Tamsayilar.csproj.AssemblyReference.cache
+C:\Users\Karabulut\source\repos\değişkenler\Tamsayilar\obj\Debug\Tamsayilar.csproj.CoreCompileInputs.cache
+C:\Users\Karabulut\source\repos\değişkenler\Tamsayilar\obj\Debug\Tamsayilar.exe
+C:\Users\Karabulut\source\repos\değişkenler\Tamsayilar\obj\Debug\Tamsayilar.pdb

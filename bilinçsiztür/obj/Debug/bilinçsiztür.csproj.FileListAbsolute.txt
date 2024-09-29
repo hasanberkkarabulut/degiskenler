@@ -1,0 +1,7 @@
+C:\Users\Karabulut\source\repos\değişkenler\bilinçsiztür\bin\Debug\bilinçsiztür.exe.config
+C:\Users\Karabulut\source\repos\değişkenler\bilinçsiztür\bin\Debug\bilinçsiztür.exe
+C:\Users\Karabulut\source\repos\değişkenler\bilinçsiztür\bin\Debug\bilinçsiztür.pdb
+C:\Users\Karabulut\source\repos\değişkenler\bilinçsiztür\obj\Debug\bilinçsiztür.csproj.AssemblyReference.cache
+C:\Users\Karabulut\source\repos\değişkenler\bilinçsiztür\obj\Debug\bilinçsiztür.csproj.CoreCompileInputs.cache
+C:\Users\Karabulut\source\repos\değişkenler\bilinçsiztür\obj\Debug\bilinçsiztür.exe
+C:\Users\Karabulut\source\repos\değişkenler\bilinçsiztür\obj\Debug\bilinçsiztür.pdb

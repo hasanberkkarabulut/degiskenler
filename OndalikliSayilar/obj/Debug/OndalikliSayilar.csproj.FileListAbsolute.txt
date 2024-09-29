@@ -1,0 +1,7 @@
+C:\Users\Karabulut\source\repos\değişkenler\OndalikliSayilar\bin\Debug\OndalikliSayilar.exe.config
+C:\Users\Karabulut\source\repos\değişkenler\OndalikliSayilar\bin\Debug\OndalikliSayilar.exe
+C:\Users\Karabulut\source\repos\değişkenler\OndalikliSayilar\bin\Debug\OndalikliSayilar.pdb
+C:\Users\Karabulut\source\repos\değişkenler\OndalikliSayilar\obj\Debug\OndalikliSayilar.csproj.AssemblyReference.cache
+C:\Users\Karabulut\source\repos\değişkenler\OndalikliSayilar\obj\Debug\OndalikliSayilar.csproj.CoreCompileInputs.cache
+C:\Users\Karabulut\source\repos\değişkenler\OndalikliSayilar\obj\Debug\OndalikliSayilar.exe
+C:\Users\Karabulut\source\repos\değişkenler\OndalikliSayilar\obj\Debug\OndalikliSayilar.pdb

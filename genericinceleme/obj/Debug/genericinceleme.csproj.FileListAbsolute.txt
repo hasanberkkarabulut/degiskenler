@@ -1,0 +1,7 @@
+C:\Users\Karabulut\source\repos\değişkenler\genericinceleme\bin\Debug\genericinceleme.exe.config
+C:\Users\Karabulut\source\repos\değişkenler\genericinceleme\bin\Debug\genericinceleme.exe
+C:\Users\Karabulut\source\repos\değişkenler\genericinceleme\bin\Debug\genericinceleme.pdb
+C:\Users\Karabulut\source\repos\değişkenler\genericinceleme\obj\Debug\genericinceleme.csproj.AssemblyReference.cache
+C:\Users\Karabulut\source\repos\değişkenler\genericinceleme\obj\Debug\genericinceleme.csproj.CoreCompileInputs.cache
+C:\Users\Karabulut\source\repos\değişkenler\genericinceleme\obj\Debug\genericinceleme.exe
+C:\Users\Karabulut\source\repos\değişkenler\genericinceleme\obj\Debug\genericinceleme.pdb
